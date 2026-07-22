@@ -1,0 +1,1 @@
+print("Welcome study with python")
